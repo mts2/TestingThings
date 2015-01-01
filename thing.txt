@@ -5,3 +5,10 @@ A branch edit.
 Branch edit.
 
 This here is a good edit I made, and wish to add to master.
+
+No second edit. We about the real thing, not branching. Ha ha ha ha.
+
+Second edit.
+Branch edit.
+
+Final edit on master.
