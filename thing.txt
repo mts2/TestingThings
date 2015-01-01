@@ -12,3 +12,5 @@ Second edit.
 Branch edit.
 
 Final edit on master.
+
+This is an edit from the newBranch yo.
